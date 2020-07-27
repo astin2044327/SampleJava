@@ -9,7 +9,7 @@ public class JavaAdd
 		int x = 0; 
 		long y = 10; 
 		
-		for (y = 0, x = 1; x < 5; x++) 
+		for (y = 0, x = 1; x < 10; x++) 
 		{ 
 			System.out.print(x + " "); 
 		} 
